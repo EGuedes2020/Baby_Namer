@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+  font-family: 'Kodchasan', sans-serif;
+}
+
+body {
+  background-color: #e77a74;
+}
+
+/* .content {
+  margin-top: 190px;
+  margin-bottom: 80px;
+} */
+
+hr {
+  border-top: 4px solid white;
+}
+
+.icon {
+  color: #0d6efd;
+  text-shadow: 2px 2px 4px #d3d3d3;
+}
+
+.card:hover {
+  box-shadow: 0px 10px 5px #0000001e;
+  transform: scale(1.05, 1.05);
+  transition: transform 0.5s;
+}
+
+.card {
+  box-shadow: 0px 2px 5px #0000001e;
+  transform: scale(1, 1);
+  transition: transform 0.3s;
+}
+
+.btn {
+  /* box-shadow: 0px 2px 5px #0000001e; */
+  transform: scale(1, 1);
+  transition: transform 0.5s;
+} 
+
+/* .form-select:hover {
+  box-shadow: 0px 2px 5px #0000001e;
+  transform: scale(1.035, 1.035);
+} */
+
+/* .form-check {
+  text-shadow: 0px 2px 5px #0000001e;
+} */
+
+
+.btn:hover {
+  box-shadow: 0px 2px 5px #0000001e;
+  transform: scale(1.035, 1.035);
+  transition: transform 0.3s;
+}
+
+
+

@@ -1,0 +1,10 @@
+.footer { 
+    justify-content: center; 
+    border-top: 2px solid #E77A74;
+    text-align: center;
+    padding-bottom: 0px;
+    padding-top: 10px;
+    background-color: #ffffff;
+    color: #E77A74;
+    font-weight: bold;
+}

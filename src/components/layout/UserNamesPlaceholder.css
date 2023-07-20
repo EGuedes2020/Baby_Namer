@@ -1,0 +1,9 @@
+.containerUser {
+    border: 3px dashed rgba(255, 255, 255, 0.431);
+    border-radius: 5px;
+    padding-top: 20px;
+}
+
+.rotateIcon {
+    transform: rotate(180deg);
+}

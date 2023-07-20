@@ -1,0 +1,17 @@
+.logoTxt {
+  font-weight: bold;
+  color: #e77a74;
+}
+
+.logoSvg {
+  width: 100px;
+}
+
+.header {
+  justify-content: center;
+  border-bottom: 4px solid #e77a74;
+  text-align: center;
+  background-color: #ffffff;
+  color: #e77a74;
+  font-weight: bold;
+}
